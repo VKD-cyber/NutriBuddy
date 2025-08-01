@@ -7,10 +7,10 @@ Using advanced technologies like natural language processing, multimodal input (
 
 From fitness enthusiasts and busy professionals to those managing chronic conditions, NutriBuddy empowers everyone to eat smarter, live healthier, and stay in control of their nutrition—anytime, anywhere. It’s more than just a tool—it’s your personal AI buddy that thinks, learns, and cares like a real expert.
 
-# 🧩 Problem Statement
+# 👥 End Users
 In today’s health-conscious world, people seek personalized nutrition, but most tools offer generic plans that ignore lifestyle, culture, allergies, and changing health needs. Nutritionists also struggle to scale personalized care due to time and resource limits.
 
-# 💡 Proposed Solution
+# 🌟 WOW Factors
 Generative AI can transform nutrition guidance through an intelligent, adaptive virtual assistant. Using NLP, multimodal inputs, and large dietary databases, it can create personalized meal plans, suggest smart food swaps, and explain choices. This project builds the “Smartest AI Nutrition Assistant” that understands text, voice, or images; tailors plans to health needs; explains food decisions; and adapts with feedback—bridging the gap between generic diet apps and real nutritionists
 
 # 🧠 Technologies Used
@@ -52,10 +52,10 @@ Generative AI can transform nutrition guidance through an intelligent, adaptive 
 <img width="1879" height="826" alt="Screenshot 2025-08-01 001643" src="https://github.com/user-attachments/assets/8abf6421-708f-4019-ad64-506ef7305e0f" />
 
 ## 🔹 Deployment & Preview...
-<img width="1907" height="833" alt="Screenshot 2025-08-01 000112" src="https://github.com/user-attachments/assets/e7dcf7ad-97b6-436d-b373-faf8de274
+<img width="1907" height="833" alt="Screenshot 2025-08-01 000112" src="https://github.com/user-attachments/assets/e7dcf7ad-97b6-436d-b373-faf8de274b05" />
 
 <img width="1902" height="761" alt="Screenshot 2025-08-01 002811" src="https://github.com/user-attachments/assets/82cb6d56-af9b-46cb-ab69-1334f0891094" />
-b05" />
+
 
 # 🛣️ Future Scope
 * Integration with Wearables & Health Devices Real-time syncing with smartwatches, glucose monitors, fitness trackers, and medical IoT devices for continuously optimized dietary recommendations.
