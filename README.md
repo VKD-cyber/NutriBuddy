@@ -7,10 +7,10 @@ Using advanced technologies like natural language processing, multimodal input (
 
 From fitness enthusiasts and busy professionals to those managing chronic conditions, NutriBuddy empowers everyone to eat smarter, live healthier, and stay in control of their nutrition—anytime, anywhere. It’s more than just a tool—it’s your personal AI buddy that thinks, learns, and cares like a real expert.
 
-# 👥 End Users
+# 🧩 Problem Statement
 In today’s health-conscious world, people seek personalized nutrition, but most tools offer generic plans that ignore lifestyle, culture, allergies, and changing health needs. Nutritionists also struggle to scale personalized care due to time and resource limits.
 
-# 🌟 WOW Factors
+# 💡 Proposed Solution
 Generative AI can transform nutrition guidance through an intelligent, adaptive virtual assistant. Using NLP, multimodal inputs, and large dietary databases, it can create personalized meal plans, suggest smart food swaps, and explain choices. This project builds the “Smartest AI Nutrition Assistant” that understands text, voice, or images; tailors plans to health needs; explains food decisions; and adapts with feedback—bridging the gap between generic diet apps and real nutritionists
 
 # 🧠 Technologies Used
@@ -29,7 +29,7 @@ Generative AI can transform nutrition guidance through an intelligent, adaptive 
 * IBM Cloud IAM
 * IBM Cloud Object Storage
 
-👥 End Users
+# 👥 End Users
 * Fitness Enthusiasts – To optimize diet for muscle gain, fat loss, or endurance.
 * People with Medical Conditions – Such as diabetes, hypertension, PCOS, or thyroid issues needing condition-specific nutrition.
 * Weight Management Seekers – Individuals looking to lose, gain, or maintain weight with guided plans.
@@ -38,7 +38,7 @@ Generative AI can transform nutrition guidance through an intelligent, adaptive 
 * Elderly Individuals – Requiring age-appropriate nutrition and reminders.
 * Vegans/Vegetarians/Allergy-Prone Users – For specialized diets, intolerances, or ethical food choices.
 
-🌟 WOW Factors
+# 🌟 WOW Factors
 * Personalized Like a Human, Available Like an App Delivers meal plans tailored to your health goals, medical history, lifestyle, and cultural preferences—24/7, without waiting for appointments.
 * Understands You in Any Form Accepts input via text, voice, or images—whether you're describing your diet, snapping a photo of your meal, or scanning a grocery label.
 * Learns and Grows With You Continuously adapts based on your feedback, changing health conditions, fitness goals, and evolving preferences—just like a real nutritionist.
